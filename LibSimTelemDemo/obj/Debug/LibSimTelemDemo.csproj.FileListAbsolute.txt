@@ -1,0 +1,13 @@
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\bin\Debug\LibSimTelemDemo.exe.config
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\bin\Debug\LibSimTelemDemo.exe
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\bin\Debug\LibSimTelemDemo.pdb
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\bin\Debug\LibSimTelem.dll
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\bin\Debug\LibSimTelem.pdb
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.csprojAssemblyReference.cache
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.MainForm.resources
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.Properties.Resources.resources
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.csproj.GenerateResource.cache
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.csproj.CoreCompileInputs.cache
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.csproj.CopyComplete
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.exe
+c:\users\btlan\source\repos\LibSimTelemDemo\LibSimTelemDemo\obj\Debug\LibSimTelemDemo.pdb
